@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b71098d7-c85a-46d6-ad50-18345b001bbb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learningurllib$mzitu.coverage" NAME="mzitu Coverage Results" MODIFIED="1487169492479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$taobaomm.coverage" NAME="taobaomm Coverage Results" MODIFIED="1487133552748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$tool.coverage" NAME="tool Coverage Results" MODIFIED="1487141863099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningpython$urlliblearning.coverage" NAME="urlliblearning Coverage Results" MODIFIED="1487054901164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$meizitu.coverage" NAME="meizitu Coverage Results" MODIFIED="1487163270911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$download.coverage" NAME="download Coverage Results" MODIFIED="1487173949505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$qiushibaike.coverage" NAME="qiushibaike Coverage Results" MODIFIED="1487074112369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$Download.coverage" NAME="Download Coverage Results" MODIFIED="1487209308241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$def_mzitu.coverage" NAME="def mzitu Coverage Results" MODIFIED="1487209392951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$urlliblearning.coverage" NAME="urlliblearning Coverage Results" MODIFIED="1487054974544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$urllibrequestRuquest.coverage" NAME="urllibrequestRuquest Coverage Results" MODIFIED="1487055092135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$requestcookie.coverage" NAME="requestcookie Coverage Results" MODIFIED="1487058183609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1487093749840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learningurllib$mmtest.coverage" NAME="mmtest Coverage Results" MODIFIED="1487142010091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="qiushibaike.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+              <folding>
+                <element signature="e#15#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="youmzi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youmzi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-376">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tool.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urllibrequestRuquest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/urllibrequestRuquest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>number</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/urlliblearning.py" />
+        <option value="$PROJECT_DIR$/urllibrequestRuquest.py" />
+        <option value="$PROJECT_DIR$/requestcookie.py" />
+        <option value="$PROJECT_DIR$/qiushibaike.py" />
+        <option value="$PROJECT_DIR$/tieba.py" />
+        <option value="$PROJECT_DIR$/taobaomm.py" />
+        <option value="$PROJECT_DIR$/tool.py" />
+        <option value="$PROJECT_DIR$/mmtest.py" />
+        <option value="$PROJECT_DIR$/hello.js" />
+        <option value="$PROJECT_DIR$/meizitu.py" />
+        <option value="$PROJECT_DIR$/mzitu.py" />
+        <option value="$PROJECT_DIR$/download.py" />
+        <option value="$PROJECT_DIR$/Download.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/def mzitu.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="learningurllib">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learningpython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learningurllib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last.edited.regexp" value="&#10;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/687471686.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i6/TB1EjxDKXXXXXXhaXXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=687471686&quot; target=&quot;_blank&quot;&gt;田媛媛&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;27&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;广州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;687471686&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 设计师 T台、展模特&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;164433&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-687471686-10000854046.htm?pic_id=10003369435&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i4/687471686/TB1TORaKFXXXXc0aXXXXXXXXXXX_!!2-tstar.png&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;1&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;60742&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;529&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;90.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;888&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;406&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;你还在为上下衣物搭配而苦恼么..你还在为出门不知道穿什么而烦躁么 ..vvip女神教你一键(_)美美哒 ！ 不需要过多的搭配.不需要为不协调而苦恼 ..我们为你选好让你出门美美哒！！&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;687471686_10003369435&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;687471686_10003369435&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/405095521.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i5/TB1nK_zJXXXXXaaXVXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=405095521&quot; target=&quot;_blank&quot;&gt;v悦悦&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;27&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;405095521&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 演员&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;148672&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-405095521-300257059.htm?pic_id=10000627358&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i2/405095521/TB1vD47FVXXXXcwXpXXXXXXXXXX_!!405095521-2-tstar.png&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;2&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;59978&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;586&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;100.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;3034&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;144&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;冬季通勤加厚保暖中长款羊毛外套&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;405095521_10000627358&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;405095521_10000627358&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/631300490.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i8/TB1T6f_GVXXXXXHaXXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=631300490&quot; target=&quot;_blank&quot;&gt;崔辰辰&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;28&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;631300490&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;148579&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-631300490-10000816213.htm?pic_id=10003560889&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i1/631300490/TB1e6VNLXXXXXauXVXXXXXXXXXX_!!0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;3&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;58698&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;638&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;93.54&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;3026&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;157&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;辰子家★韩版夏季女士学生休闲百搭笑脸宽松显瘦刺绣短袖圆领T恤&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;631300490_10003560889&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;631300490_10003560889&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/414457129.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i6/TB1uGkBKVXXXXXiXFXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=414457129&quot; target=&quot;_blank&quot;&gt;大猫儿&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;31&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;广州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;414457129&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;149244&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-414457129-10000678249.htm?pic_id=10002454721&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i3/414457129/TB1M5MbKpXXXXcCXXXXXXXXXXXX_!!414457129-0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;4&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;56055&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;281&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;100.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;976&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;160&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;双肩背包一直是搭配中的重头戏 大容量的实用 与帅气铆钉的结合 时尚感十足&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;414457129_10002454721&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;414457129_10002454721&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/141234233.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i8/TB1TVQ_LXXXXXcpXXXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=141234233&quot; target=&quot;_blank&quot;&gt;金甜甜&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;1&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;141234233&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 演员 歌手&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;151693&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-141234233-10001069307.htm?pic_id=10007138677&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i1/141234233/TB1eKWgNVXXXXbAXpXXXXXXXXXX_!!0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;5&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;55920&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;586&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;100.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;5&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;426&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;三金冠蔓延女装淘宝店&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;141234233_10007138677&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;141234233_10007138677&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/96614110.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i2/TB1_9GoMVXXXXXmaXXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=96614110&quot; target=&quot;_blank&quot;&gt;紫轩&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;30&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;96614110&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 舞蹈者&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;147832&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-96614110-10001051909.htm?pic_id=10007118313&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i4/96614110/TB1mx1DNFXXXXcwXXXXXXXXXXXX_!!0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;6&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;55898&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;660&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;91.83&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;6545&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;472&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;海宁皮草羊剪绒大衣2016新款绣花女士中长款海宁皮草外套,2016 秋冬新品来袭 街头休闲 保暖长袖 羊毛大衣 秋冬新品来袭，不管你瘦或胖，上身都很棒，衣服厚实，灰常保暖！&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;96614110_10007118313&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;96614110_10007118313&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/37448401.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i8/TB1bU.UFFXXXXc0XpXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=37448401&quot; target=&quot;_blank&quot;&gt;谢婷婷&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;28&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;37448401&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 设计师&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;167310&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-37448401-10000635003.htm?pic_id=10002475139&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i2/37448401/TB1WcMQKpXXXXX9XpXXXXXXXXXX_!!37448401-0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;7&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;55414&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;638&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;100.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;1291&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;222&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;本期最爱的毛呢大衣，简约到极致的版反而更耐看有型，celine家的原版型定制，&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;37448401_10002475139&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;37448401_10002475139&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/74386764.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i8/TB1HmB7GXXXXXbHXFXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=74386764&quot; target=&quot;_blank&quot;&gt;夏晨洁&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;28&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;74386764&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;268403&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-74386764-10000208330.htm?pic_id=10001062464&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i1/74386764/TB1tM0cGFXXXXXNXVXXXXXXXXXX_!!74386764-0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;8&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;55193&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;618&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;50.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;2192&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;160&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;轻奢水貂皮草整貂皮毛领女士皮草 外套披肩2014秋冬新款&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;74386764_10001062464&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;74386764_10001062464&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/523216808.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i7/TB1HNp6LpXXXXaHaXXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=523216808&quot; target=&quot;_blank&quot;&gt;Cherry&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;29&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;广州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;523216808&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特 设计师&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;172238&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-523216808-301597150.htm?pic_id=10000809558&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i3/523216808/TB1OxhsGXXXXXaDXFXXXXXXXXXX_!!523216808-0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;9&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;54468&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;214&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;96.87&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;1197&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;266&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;ATAR 2014秋冬新款女装加厚伦敦羊毛呢料大衣舒适保暖显瘦外套&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;523216808_10000809558&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;523216808_10000809558&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;list-item&quot;&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;personal-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic-word&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic s60&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/46599595.htm&quot; target=&quot;_blank&quot; class=&quot;lady-avatar&quot;&gt;&#9;&#9;&lt;img src=&quot;//gtd.alicdn.com/sns_logo/i7/TB1QPszGXXXXXbSXVXXSutbFXXX.jpg_60x60.jpg&quot; alt=&quot;&quot; width=&quot;60&quot; height=&quot;60&quot;/&gt;&#10;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p class=&quot;top&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a class=&quot;lady-name&quot; href=&quot;//mm.taobao.com/self/model_card.htm?user_id=46599595&quot; target=&quot;_blank&quot;&gt;雪倩nika&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;26&lt;/strong&gt;岁&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;杭州市&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span class=&quot;friend-follow J_FriendFollow&quot; data-custom=&quot;type=14&amp;app_id=12052609&quot; data-group=&quot;&quot; data-userid=&quot;46599595&quot;&gt;加关注&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;p&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;平面模特&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;em&gt;&lt;strong&gt;320256&lt;/strong&gt;粉丝&lt;/em&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/p&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;div class=&quot;pic w610&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;//mm.taobao.com/photo-46599595-10000447489.htm?pic_id=10002043550&quot; target=&quot;_blank&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&#9;&lt;img data-ks-lazyload=&quot;//img.alicdn.com/imgextra/i4/46599595/TB1yja3JXXXXXaSXXXXXXXXXXXX_!!46599595-0-tstar.jpg&quot; src=&quot;//assets.alicdn.com/kissy/1.0.0/build/imglazyload/spaceball.gif&quot;/&gt;&#10;    &#9;&#9;&#9;&#9;&#9;&lt;/a&gt;&#10;    &#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;list-info&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;popularity&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;dl &gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;10&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dt&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;span&gt;总积分:&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;54360&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dd&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/dl&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;info-detail&quot;&gt;&#10;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;新增积分:&lt;strong&gt;492&lt;/strong&gt;&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;好评率:&lt;strong&gt;100.0&lt;/strong&gt; %&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;导购照片:&lt;strong&gt;3183&lt;/strong&gt; 张&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;&#9;                    &#9;&#9;&#9;&lt;li&gt;签约数量:&lt;strong&gt;43&lt;/strong&gt; 次&lt;/li&gt;&#10;                    &#9;&#9;                    &#9;                    &lt;/ul&gt;&#10;    &#9;&#9;&#9;&#9;&lt;p class=&quot;description&quot;&gt;&#10;    &#9;&#9;&#9;&#9;&#9;~非常舒适的一款衬衫，精致的雪纺材质，垂坠感好，亲肤透气，非常飘逸，门襟单排扣，方便穿脱，方便穿脱，整体上身效果非常不错的呢！前面一个口袋设计，起到了更好的装饰效果&#10;                    &lt;/p&gt;&#10;                        &#9;&#9;&#9;&#9;&lt;div class=&quot;J_LikeIt&quot; photo-id=&quot;46599595_10002043550&quot; photo-favor-count=&quot;0&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;div class=&quot;mm-photolike&quot;&gt;&lt;a href=&quot;javascript:void(0)&quot; class=&quot;mm-photolike-btn&quot; data-targetid=&quot;46599595_10002043550&quot; data-count=&quot;0&quot;&gt;喜欢&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;      &lt;var class=&quot;mm-photolike-count radius-3&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;    &#9;&#9;&#9;&#9;&#9;&#9;&#9;   0&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;  &lt;/var&gt;&#10;&#9;&#9;&#9;&#9;&#9;   &lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;                                        &#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&lt;input type=&quot;hidden&quot; id=&quot;J_Totalpage&quot; value=&quot;4316&quot;/&gt;&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mzitu" />
+  </component>
+  <component name="RunManager" selected="Python.def mzitu">
+    <configuration default="false" name="meizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python\learningurllib\youmzi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mzitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mzitu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python\learningurllib\Download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="def mzitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/def mzitu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="learningpython" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="urllibrequestRuquest" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learningpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllibrequestRuquest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.urllibrequestRuquest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.meizitu" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mzitu" />
+      <item index="3" class="java.lang.String" itemvalue="Python.download" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Download" />
+      <item index="5" class="java.lang.String" itemvalue="Python.def mzitu" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.def mzitu" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Download" />
+        <item index="2" class="java.lang.String" itemvalue="Python.download" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mzitu" />
+        <item index="4" class="java.lang.String" itemvalue="Python.meizitu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b71098d7-c85a-46d6-ad50-18345b001bbb" name="Default" comment="" />
+      <created>1487041150322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487041150322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2473525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33123028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youmzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youmzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mzitu.py" />
+    <entry file="file://$PROJECT_DIR$/Download.py" />
+    <entry file="file://$PROJECT_DIR$/def mzitu.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youmzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tieba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="119" column="51" lean-forward="false" selection-start-line="119" selection-start-column="51" selection-end-line="119" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaomm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllibrequestRuquest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urlliblearning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestcookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/纯原创我心中的NBA2014-2015赛季现役50大.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tieba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="95" column="26" lean-forward="false" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaomm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="73" column="28" lean-forward="false" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaommtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="91" column="23" lean-forward="false" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qiushibaike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15a01.jpg" />
+    <entry file="file://$PROJECT_DIR$/15a02.jpg" />
+    <entry file="file://$PROJECT_DIR$/15a61.jpg" />
+    <entry file="file://$PROJECT_DIR$/mzitu.py" />
+    <entry file="file://$PROJECT_DIR$/Download.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/def mzitu.py" />
+    <entry file="file://$PROJECT_DIR$/youmzi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllibrequestRuquest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

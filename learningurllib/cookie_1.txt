@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.kindle10000.com	TRUE	/	FALSE	1487144588	UlBc_b665_lastact	1487058188%09member.php%09logging
+.kindle10000.com	TRUE	/	FALSE	1489650188	UlBc_b665_lastvisit	1487054588
+.kindle10000.com	TRUE	/	FALSE	1489650188	UlBc_b665_saltkey	D6Kbe2PX
+.kindle10000.com	TRUE	/	FALSE	1487144588	UlBc_b665_sid	eqGV81
