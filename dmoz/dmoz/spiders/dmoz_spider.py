@@ -22,6 +22,6 @@ class DmozSpider(scrapy.Spider):
 			# desc = i.xpath('text()').extract()
 			# print(title, link, desc)
 
-		# filename = response.url.split('/')[-2]
-		# with open(filename, 'wb') as f:
-		# 	f.write(response.body)
+		filename = response.url.split('/')[-2] + '.json'
+		with open(filename, 'wb') as f:
+			f.write(response.body)

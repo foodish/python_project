@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/dmoz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w3school" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/csdnblog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w3school_1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
