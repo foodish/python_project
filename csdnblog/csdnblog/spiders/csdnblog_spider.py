@@ -20,7 +20,6 @@ class CsdnblogSpider(Spider):
 		# print(response)
 		soup = BeautifulSoup(response.text, 'lxml')
 		content = soup.find('span', class_='link_title')
-		items = []
 		item = CsdnblogItem()
 		# print('-----------')
 		# print(content)
@@ -36,7 +35,8 @@ class CsdnblogSpider(Spider):
 
 			item['article_name'] = article_name
 			item['article_url'] = article_url
-			items.append(item)
+
+			yield item # 最开始在最后用的return item，但进入不了pipelines，改为yield即可
 
 			url = soup.find('li', class_='next_article').a['href']
 			# print('-----------------------')
@@ -48,8 +48,6 @@ class CsdnblogSpider(Spider):
 			yield Request(url, callback=self.parse)
 		except:
 			pass
-		print('-------------')
-		print(item)
-		return items
-
+		# print('-------------')
+		# print(item)
 

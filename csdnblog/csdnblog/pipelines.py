@@ -12,6 +12,7 @@ class CsdnblogPipeline(object):
         self.file = open('csdnblog.json', 'wb')
 
     def process_item(self, item, spider):
+        print(item)
         line = json.dumps(dict(item), ensure_ascii=False) + '\n'  #避免输出中文乱码：ensure_ascii=False
         self.file.write(line.encode('utf-8'))
         return item
