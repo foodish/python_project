@@ -1,0 +1,3 @@
+test argv
+te st
+'hi nihao'
