@@ -8,7 +8,8 @@ import socket
 
 wait_time = 10
 socket.setdefaulttimeout(wait_time)
-client = MongoClient()  # 连接至本地数据库
+# client = MongoClient()  # 连接至本地数据
+client = MongoClient('10.140.0.2', 80) # 连接服务器端
 db = client['pythonproject']  # 选择一个数据库
 xueqiu_users = db['xueqiu']  # 在上面的数据库中选择一个集合
 xueqiu_users.ensure_index('id', unique=True)
@@ -139,10 +140,8 @@ def dup(id_liat):
 
 
 if __name__ == '__main__':
-	# seedid = 1955602780 #不明真相的群众，关注较多
-	id_list = []
-	for user in xueqiu_users.find():
-		id_list.append(user['id'])
+	seedid = 1955602780 #不明真相的群众，关注较多
+	id_list = get_userfriendsinfo(seedid)
 	for i in id_list:
 		list0 = get_userfriendsinfo(i)
 		for k in list0:
@@ -152,7 +151,7 @@ if __name__ == '__main__':
 				id_list.append(j)
 				list2 = get_userfriendsinfo(j)
 
-	print(xueqiu_users.count())
+	print(xueqiu_users.count())addaadd
 # for user in xueqiu_users.find():
 # 	print(user)
 # 162页输出完毕后一直报错
