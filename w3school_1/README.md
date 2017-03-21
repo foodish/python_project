@@ -4,7 +4,7 @@
 
 1.xpath语法中属性值应双引号而非单引号; a/text()而非a.text()
 
-2.spider not found error:运行时的entrypoint中的爬虫名字应与spide.py中设置的name字段
+2.spider not found error:运行时的entrypoint中的爬虫名字应与spider.py中设置的name字段
 一致.
 
 ##reference

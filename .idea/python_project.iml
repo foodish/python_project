@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w3school_1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TaobaoBaokuan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Xueqiu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Xueqiu/Xueqiu" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Xueqiu/Xueqiu/spiders" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
