@@ -13,7 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Xueqiu/Xueqiu" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Xueqiu/Xueqiu/spiders" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (C:\Users\Lenovo.pc\AppData\Local\Programs\Python\Python35\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

@@ -1,6 +1,7 @@
 # 参考：http://www.cnblogs.com/hhh5460/p/5838516.html
 from pymongo import MongoClient
 
+
 client = MongoClient('192.168.40.87', 27037)
 db_name = 'tset_1'
 db = client[db_name]
